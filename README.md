@@ -9,4 +9,4 @@ Voici les objectifs que je m'était mis :
 * Passer le temps aussi en jouant
 * Un snake graphique
 * Faire un système de "Array associatif" (de 'Map') pour les SDL_Surface*
-* Puis à la fin, on m'avait demandé de faire un système de score mais j'avais la flemme
+* Puis à la fin, on m'avait demandé de faire un système de score mais j'avais la flemme (on était déjà arrivé à la fin du voyage ^^)
